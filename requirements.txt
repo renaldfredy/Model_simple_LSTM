@@ -1,0 +1,9 @@
+numpy
+matplotlib
+pandas
+statsmodels
+conda install keras
+sklearn
+scikit-image
+python versio 3.7.3
+jupyter notebook
